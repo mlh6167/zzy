@@ -5,3 +5,4 @@ var z = 'pull'
 
 var test = 'test'
 var mm = 'C开发的'
+var test = 'test'
